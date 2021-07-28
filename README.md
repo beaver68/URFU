@@ -1,1 +1,1 @@
-# URFU
+# URFU hackaton
